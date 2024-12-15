@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/swapi_react_axios-app/static/css/main.16322da3.css",
+    "main.js": "/swapi_react_axios-app/static/js/main.eb2fc647.js",
+    "static/js/496.bcc6f112.chunk.js": "/swapi_react_axios-app/static/js/496.bcc6f112.chunk.js",
+    "static/media/space.jpg": "/swapi_react_axios-app/static/media/space.d3abe159851027a906cd.jpg",
+    "static/media/backup3-img.jpeg": "/swapi_react_axios-app/static/media/backup3-img.23e1048ca213854ec47b.jpeg",
+    "index.html": "/swapi_react_axios-app/index.html",
+    "main.16322da3.css.map": "/swapi_react_axios-app/static/css/main.16322da3.css.map",
+    "main.eb2fc647.js.map": "/swapi_react_axios-app/static/js/main.eb2fc647.js.map",
+    "496.bcc6f112.chunk.js.map": "/swapi_react_axios-app/static/js/496.bcc6f112.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16322da3.css",
+    "static/js/main.eb2fc647.js"
+  ]
+}
